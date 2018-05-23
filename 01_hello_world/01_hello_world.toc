@@ -1,0 +1,7 @@
+## Interface: 70300
+## Title: Hello World
+## Author: Innovation
+## Version: 0.1
+
+##main.lua
+01_hello_world.xml

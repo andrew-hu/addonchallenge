@@ -1,0 +1,8 @@
+<Ui>
+<Frame name="FooAddonFrame">
+ <Scripts>
+   <OnLoad> self:RegisterEvent("PLAYER_ENTERING_WORLD"); </OnLoad>
+   <OnEvent> message("Hello World! Hello " .. event); </OnEvent>
+  </Scripts>
+</Frame>
+</Ui>

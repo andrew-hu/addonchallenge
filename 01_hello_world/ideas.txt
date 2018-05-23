@@ -1,0 +1,4 @@
+- tracks CC DR on your target outside of arena
+- monitor defensives next to party frame
+- A reliable extra action button and bar mover
+- Also, an add on that lets you overwrite certain game sounds with more pleasant ones
