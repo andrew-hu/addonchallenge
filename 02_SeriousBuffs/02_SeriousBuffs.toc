@@ -1,0 +1,7 @@
+## Interface: 70300
+## Title: 02_SeriousBuffs
+## Author: Innovation
+## Version: 0.1
+
+Core.lua
+## 01_hello_world.xml
