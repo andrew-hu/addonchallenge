@@ -9,4 +9,4 @@ The initial few addons will be simple introductory exercises to warm up to impor
 1. 01_hello_world (5/22/2018) Hello world with LUA and XML
 2. 02_SeriousBuffs (5/23/2018) Basic Menu with Asset Inheritance, basic widgets
 
-![alt text](https://github.com/andrew-hu/addonchallenge/raw/master/images/02_SeriousBuffs.png "Most recent addon screencap")
+![alt text](https://github.com/andrew-hu/addonchallenge/blob/master/images/02_SeriousBuffs.PNG?raw=true "Most recent addon screencap")
